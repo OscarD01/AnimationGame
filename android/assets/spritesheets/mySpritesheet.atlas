@@ -1,0 +1,88 @@
+
+mySpritesheet.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+0001
+  rotate: false
+  xy: 2, 462
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 0
+0002
+  rotate: false
+  xy: 2, 2
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 1
+0003
+  rotate: false
+  xy: 367, 462
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 2
+0004
+  rotate: false
+  xy: 367, 2
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 3
+
+mySpritesheet2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+0005
+  rotate: false
+  xy: 2, 462
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 4
+0006
+  rotate: false
+  xy: 2, 2
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 5
+0007
+  rotate: false
+  xy: 367, 462
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 6
+0008
+  rotate: false
+  xy: 367, 2
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 7
+
+mySpritesheet3.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+0009
+  rotate: false
+  xy: 2, 2
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 8
+0010
+  rotate: false
+  xy: 367, 2
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 9
